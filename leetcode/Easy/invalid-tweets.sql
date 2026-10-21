@@ -4,7 +4,7 @@
 // Language: mysql
 // Verdict: Accepted
 // URL: https://leetcode.com/problems/invalid-tweets/
-// Solved on: 2026-10-12T08:45:28.415Z
+// Solved on: 2026-10-21T10:42:43.532Z
 
 # Write your MySQL query statement below
 SELECT tweet_id
