@@ -4,7 +4,7 @@
 // Language: mysql
 // Verdict: Accepted
 // URL: https://leetcode.com/problems/big-countries/
-// Solved on: 2026-10-12T08:26:33.698Z
+// Solved on: 2026-10-21T10:21:33.118Z
 
 # Write your MySQL query statement below
 SELECT name, population, area
