@@ -4,9 +4,8 @@
 // Language: mysql
 // Verdict: Accepted
 // URL: https://leetcode.com/problems/recyclable-and-low-fat-products/
-// Solved on: 2026-10-12T08:11:27.814Z
+// Solved on: 2026-10-21T10:15:53.176Z
 
-# Write your MySQL query statement below
 SELECT product_id
 FROM Products
-WHERE low_fats = 'Y' AND recyclable = 'Y'
+WHERE low_fats = 'Y' AND recyclable = 'Y';
