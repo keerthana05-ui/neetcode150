@@ -4,9 +4,8 @@
 // Language: mysql
 // Verdict: Accepted
 // URL: https://leetcode.com/problems/invalid-tweets/
-// Solved on: 2026-10-21T10:42:43.532Z
+// Solved on: 2026-10-21T10:46:53.455Z
 
-# Write your MySQL query statement below
 SELECT tweet_id
 FROM Tweets
 WHERE LENGTH(content) > 15;
