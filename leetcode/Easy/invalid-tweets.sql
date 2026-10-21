@@ -4,7 +4,7 @@
 // Language: mysql
 // Verdict: Accepted
 // URL: https://leetcode.com/problems/invalid-tweets/
-// Solved on: 2026-10-21T10:46:53.455Z
+// Solved on: 2026-10-21T10:59:19.804Z
 
 SELECT tweet_id
 FROM Tweets
