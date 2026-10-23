@@ -4,10 +4,9 @@
 // Language: mysql
 // Verdict: Accepted
 // URL: https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/
-// Solved on: 2026-10-13T05:10:18.562Z
+// Solved on: 2026-10-23T06:52:05.673Z
 
-# Write your MySQL query statement below
 SELECT EmployeeUNI.unique_id, Employees.name
-FROM Employees
+FROM Employees 
 LEFT JOIN EmployeeUNI
-  ON Employees.id = EmployeeUNI.id;
+    ON Employees.id = EmployeeUNI.id;
